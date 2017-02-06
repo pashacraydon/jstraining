@@ -3,5 +3,5 @@
 node_modules
 dist/*
 build/*
-test/build/*
+tests/build/*
 npm-debug.log

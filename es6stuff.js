@@ -54,16 +54,18 @@ const [firstAnimal,, ...remaining] = ["cat", "dog", "lion", "horse"]
 console.log(firstAnimal, ...remaining) // "cat", ["lion", "horse"]
 
 function Animal (type) {
-  this.state = { 
-    'type': type
-  };
+  this.type = type;
 }
 
 Animal.prototype.getAnimalType = function () {
-  console.log('The animal is a ' + this.state.type);
+  console.log('The animal is a ' + this.type);
 }
 
-var animal = new Animal('dog');
+var animal = new Animal('cat');
+
+animal.getAnimalType();
+// "The animal is a cat"
+
 
 
 
@@ -82,7 +84,7 @@ class Animal {
 const animal = new Animal('cat');
 
 
-const class Dog extends Animal {
+class Dog extends Animal {
   constructor (type, breed) {
     super(type);
     this.breed = breed;

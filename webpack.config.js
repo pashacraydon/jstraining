@@ -1,6 +1,5 @@
 var path = require('path');
 var webpack = require('webpack');
-var CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   context: __dirname,
@@ -59,10 +58,6 @@ module.exports = {
     new webpack.optimize.DedupePlugin(),
     new webpack.ProvidePlugin({
       _: 'lodash'
-    }),
-    new CopyWebpackPlugin([
-      { from: 'src/static/css/app.css', to: 'app.css' },
-      { from: 'src/static/images/loading.gif', to: 'loading.gif' }
-    ])
+    })
   ]
 };

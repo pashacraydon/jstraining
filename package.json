@@ -12,6 +12,7 @@
     "refresh": "rm -rf node_modules && npm cache clear && npm install",
     "server": "webpack-dev-server --content-base build/",
     "tests": "mocha tests/run.js",
+    "tests:debug": "mocha debug tests/run.js",
     "build": "webpack --config webpack.config.js --progress --colors",
     "build:debug": "webpack --config webpack.config.js --progress --colors --display-error-details",
     "build:compress": "webpack --config webpack.config.js --progress --colors --display-error-details",
