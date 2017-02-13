@@ -21,7 +21,7 @@ export default class SingleAnimal extends Component {
 
     return (
       <li className="single-animal">
-        {(name && type) &&
+        {(name && type) && 
           <span>{name} is a {type}.</span>}
         {(gender === "male") ?
           <span> He </span> : <span> She </span>}

@@ -1,10 +1,7 @@
 
-const
 
 
-Object destructuring;
-
-
+// Object destructuring;
 
 
 let cat = {

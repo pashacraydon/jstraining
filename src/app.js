@@ -28,7 +28,7 @@ const animals = [{
   }];
 
 ReactDOM.render(
-  <Animals animals={animals} />,
+  <Animals things={animals} />,
   document.getElementById('root')
 );
 

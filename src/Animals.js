@@ -1,16 +1,18 @@
 
 import React, { Component, PropTypes } from 'react';
 import SingleAnimal from 'SingleAnimal';
+import Header from 'Header';
 
 export default class Animals extends Component {
 
   render () {
-    const { animals } = this.props;
+    const { things } = this.props;
     return (
       <span>
-        <h1> Animals are great. </h1>
+        <Header />
+        <span>{things[0].type}</span>
         <ul className="items-list">
-          {animals.map((animal, i) => {
+          {things.map((animal, i) => {
             return <SingleAnimal key={i} animal={animal} />;
           })}
         </ul>
