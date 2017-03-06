@@ -1,0 +1,2400 @@
+{  
+   "Schedule":{  
+      "conferences":[  
+         {  
+            "serial":259
+         }
+      ],
+      "events":[  
+         {  
+            "serial":57843,
+            "name":"Styling React.js Applications",
+            "event_type":"Session",
+            "time_start":"2017-06-21 09:00:00",
+            "time_stop":"2017-06-21 09:40:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Building user interfaces on the web is hard, because the web, and thus CSS, was inherently made for documents. Because UIs fundamentally are not documents, we\u0026#39;ve seen a mindset shift towards building component-based system.\r\n\r\nGlen Maddern and I sat down and started thinking about styling in this new era. We took the best of CSS to build a new way to style React.js apps – styled-components.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/57843",
+            "speakers":[  
+               270571
+            ],
+            "categories":[  
+               "Frontend Frameworks and Libraries"
+            ]
+         },
+         {  
+            "serial":57877,
+            "name":"Advanced debugging with Chrome DevTools",
+            "event_type":"Tutorial",
+            "time_start":"2017-06-20 13:30:00",
+            "time_stop":"2017-06-20 17:00:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Between race conditions, object references, and async stack traces, JavaScript can be really hard to sift through. Modern browsers give you so many tools for debugging, why not use them? And now that Node works out of the box with Dev Tools, you can step through your Node stack, as well! Learn the latest ways to masterfully march up and down your stack solving your code’s greatest mysteries. ",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/57877",
+            "speakers":[  
+               171853
+            ],
+            "categories":[  
+               "Frontend Tools"
+            ]
+         },
+         {  
+            "serial":57879,
+            "name":"Locking it down: A security primer for web developers",
+            "event_type":"Session",
+            "time_start":"2017-06-21 09:00:00",
+            "time_stop":"2017-06-21 09:40:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Increasingly, year over year, we see evidence that web security is nowhere near as solid as we would hope. In fact, some of the foundational pillars we rely on can be compromised with great ease. We care about our users, and want to offer them a safe experience, but in some cases even saving them from themselves (and the sketchy coffee shop wifi they may be on).",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/57879",
+            "speakers":[  
+               270900
+            ],
+            "categories":[  
+               "Modern Web Essentials"
+            ]
+         },
+         {  
+            "serial":57884,
+            "name":"Architecting web apps to “just work” offline",
+            "event_type":"Session",
+            "time_start":"2017-06-21 09:50:00",
+            "time_stop":"2017-06-21 10:30:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Offline web applications with native performance are no longer a myth. In this talk you’ll see how to architect an application that loads offline, persists data to disk, and even resolves conflicts in data. I’ll talk you through the challenges I encountered, including managing optimistic updates, syncing, and performance on a single thread, and share the solutions that worked the best.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/57884",
+            "speakers":[  
+               174180
+            ],
+            "categories":[  
+               "Modern Web Essentials"
+            ]
+         },
+         {  
+            "serial":57932,
+            "name":"Flexing your Flexbox muscles",
+            "event_type":"Session",
+            "time_start":"2017-06-22 11:00:00",
+            "time_stop":"2017-06-22 11:40:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Building linear layouts in CSS has been hard. Tables are bad, inline-block has quirks, and floats are insufficient. Thankfully CSS Flexbox enables us to elegantly solve our layout problems. Let’s deep dive into Flexbox: what it is, why you should use it, how it’s configured, and where it’s most useful.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/57932",
+            "speakers":[  
+               219647
+            ],
+            "categories":[  
+               "Modern Web Essentials"
+            ]
+         },
+         {  
+            "serial":57966,
+            "name":"Build a JavaScript development environment",
+            "event_type":"Tutorial",
+            "time_start":"2017-06-20 09:00:00",
+            "time_stop":"2017-06-20 12:30:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Starting a new JavaScript project from scratch is overwhelming. This course provides a playbook outlining the key decisions you need to make. Build a robust development environment that handles bundling, linting, transpiling, testing, and much more.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/57966",
+            "speakers":[  
+               192417
+            ],
+            "categories":[  
+               "Frontend Frameworks and Libraries"
+            ]
+         },
+         {  
+            "serial":57990,
+            "name":"Building performant native apps with Angular and NativeScript ",
+            "event_type":"Session",
+            "time_start":"2017-06-21 11:00:00",
+            "time_stop":"2017-06-21 11:40:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"The web is cool, but sometimes you need to push the boundaries of what you can do on a mobile device. NativeScript and Angular let you build the high performant native apps you want, and to do so with the web technologies you already know and love. Come see what NativeScript makes possible!",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/57990",
+            "speakers":[  
+               189717
+            ],
+            "categories":[  
+               "Cross-Platform and Mobile"
+            ]
+         },
+         {  
+            "serial":57998,
+            "name":"Handling authentication secrets in the browser",
+            "event_type":"Session",
+            "time_start":"2017-06-21 16:25:00",
+            "time_stop":"2017-06-21 17:05:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"In the new world of JavaScript UIs, REST APIs and microservices, applications that run in the highly insecure browser environment must handle tokens and other secrets to have access to backend services. In this talk I will draw from my experience at Rackspace to discuss what the risks are, and what are the best practices to avoid them.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/57998",
+            "speakers":[  
+               161332
+            ],
+            "categories":[  
+               "Web Services and APIs"
+            ]
+         },
+         {  
+            "serial":58025,
+            "name":"Web Bluetooth is ready, and it’s awesome",
+            "event_type":"Session",
+            "time_start":"2017-06-22 15:35:00",
+            "time_stop":"2017-06-22 16:15:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Learn how to make your web pages react to the real world by leveraging web Bluetooth. Jen Looper explores using web bluetooth in real-world scenarios, such as connecting to web beacons to enhance educational experiences. With web Bluetooth, the path to “walking up and using anything” promised by the physical web just got easier, more streamlined, and a lot more fun to use quickly. ",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58025",
+            "speakers":[  
+               190101
+            ],
+            "categories":[  
+               "The Web Everywhere"
+            ]
+         },
+         {  
+            "serial":58067,
+            "name":"A whirlwind tour of ClojureScript",
+            "event_type":"Session",
+            "time_start":"2017-06-22 16:25:00",
+            "time_stop":"2017-06-22 17:05:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"ClojureScript is a functional language that compiles to JavaScript. Starting with basic syntax, variables, and function definitions, you\u0026#39;ll learn how to interact with JavaScript functions and Web pages. The session continues with lists and vectors, and the map and reduce functions.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58067",
+            "speakers":[  
+               18472
+            ],
+            "categories":[  
+               "Future JS \u0026 Functional"
+            ]
+         },
+         {  
+            "serial":58084,
+            "name":"Building a serverless electronic health record system from scratch",
+            "event_type":"Session",
+            "time_start":"2017-06-22 16:25:00",
+            "time_stop":"2017-06-22 17:05:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"At Warby Parker, we recently built an electronic health record system for our optometrists to use to conduct and store their eye exams. We used this project as an opportunity to explore building a serverless web application on AWS and how that could be used at Warby Parker. In this talk, I will share details around implementation, some challenges we faced due to this constraint, and learnings. ",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58084",
+            "speakers":[  
+               229869
+            ],
+            "categories":[  
+               "Web Services and APIs"
+            ]
+         },
+         {  
+            "serial":58088,
+            "name":"Your data deserves an API: Transforming and sharing humanities data with LoopBack",
+            "event_type":"Session",
+            "time_start":"2017-06-21 11:00:00",
+            "time_stop":"2017-06-21 11:40:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"There is more data available today than ever before, but \u0026#39;available\u0026#39; datasets are not necessarily \u0026#39;accessible\u0026#39; datasets. Datasets often languish because they lack easily-accessible APIs, or worse, precious research time is spent re-creating tools needed to work with data. In this talk, learn how to build \u0026amp; deploy a useful API for a legacy dataset with LoopBack, an open-source Node API framework.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58088",
+            "speakers":[  
+               82
+            ],
+            "categories":[  
+               "Web Services and APIs"
+            ]
+         },
+         {  
+            "serial":58107,
+            "name":"Automating peace of mind with accessibility testing and CI",
+            "event_type":"Session",
+            "time_start":"2017-06-21 16:25:00",
+            "time_stop":"2017-06-21 17:05:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"A look at open source web development tools and testing practices that can help your team develop a pragmatic and sustainable approach to accessible software, benefiting many people with disabilities.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58107",
+            "speakers":[  
+               189759
+            ],
+            "categories":[  
+               "Frontend Tools"
+            ]
+         },
+         {  
+            "serial":58114,
+            "name":"Blink and you’ll miss it: Building a progressive web app with HTTP/2",
+            "event_type":"Session",
+            "time_start":"2017-06-21 11:00:00",
+            "time_stop":"2017-06-21 11:40:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Imagine a world where you can access content on the web regardless of network connection within the blink of an eye. Progressive Web Apps are a total game changer for the web and allow developers to build lightning fast, engaging experiences. In this presentation, we cover a step by step guide to implementing this technology from first hand experience and how you can apply these features yourself.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58114",
+            "speakers":[  
+               143846
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":58129,
+            "name":"Building hybrid mobile apps with Ionic 2",
+            "event_type":"Tutorial",
+            "time_start":"2017-06-20 13:30:00",
+            "time_stop":"2017-06-20 17:00:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"In this workshop, you will be introduced to the Ionic v2 framework, a powerful hybrid mobile solution. Built atop of Angular 2 and Apache Cordova, this framework gives developers an incredibly powerful set of mobile components to create app store-ready apps or Progressive Web Apps!",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58129",
+            "speakers":[  
+               84713
+            ],
+            "categories":[  
+               "Cross-Platform and Mobile"
+            ]
+         },
+         {  
+            "serial":58146,
+            "name":"To cross the chasm you need docs: Our story at Docker",
+            "event_type":"Session",
+            "time_start":"2017-06-22 15:35:00",
+            "time_stop":"2017-06-22 16:15:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"In this talk I\u0026#39;ll explain how good docs can help you cross the chasm and ensure you won\u0026#39;t need to spend your days hand-holding users and prospects.\r\n\r\nI\u0026#39;ll teach you about the processes and tools we\u0026#39;re using at Docker to deliver docs in a continuous way.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58146",
+            "speakers":[  
+               272365
+            ],
+            "categories":[  
+               "People and teams"
+            ]
+         },
+         {  
+            "serial":58176,
+            "name":"Turbocharged testing with Angular",
+            "event_type":"Tutorial",
+            "time_start":"2017-06-20 09:00:00",
+            "time_stop":"2017-06-20 12:30:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"The next version of Angular was also made to be testable. But what are the best practices for testing in Angular? This tutorial will explore how to turbocharge your unit testing workflow in Angular with real world example code, approaches, and modern tools. Attendees will take away a number of real-world examples that they will be able to implement on their projects right away.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58176",
+            "speakers":[  
+               197177
+            ],
+            "categories":[  
+               "Frontend Frameworks and Libraries"
+            ]
+         },
+         {  
+            "serial":58179,
+            "name":"Managing engineering teams through constant change",
+            "event_type":"Session",
+            "time_start":"2017-06-21 09:00:00",
+            "time_stop":"2017-06-21 09:40:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"High attrition, frequent reorganization, shifting priorities, and management turnover are part of the constant change that is the new normal.  It takes months to onboard a new team member and get them adding value.  I offer tips, shortcuts, and stories for stabilizing a team and finding a path to productivity amidst the chaos.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58179",
+            "speakers":[  
+               192426
+            ],
+            "categories":[  
+               "People and teams"
+            ]
+         },
+         {  
+            "serial":58203,
+            "name":"Evergreen websites for evergreen browsers",
+            "event_type":"Session",
+            "time_start":"2017-06-21 11:00:00",
+            "time_stop":"2017-06-21 11:40:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"In this talk I’ll show you a modern roadmap for browser support. Creating sites that can enhance themselves as the platform improves - without leaving those people stuck on older browsers in the cold.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58203",
+            "speakers":[  
+               187806
+            ],
+            "categories":[  
+               "Modern Web Essentials"
+            ]
+         },
+         {  
+            "serial":58227,
+            "name":" JavaScript behind the scenes: Metaprogramming",
+            "event_type":"Session",
+            "time_start":"2017-06-22 11:00:00",
+            "time_stop":"2017-06-22 11:40:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Infinite sequences, lazy properties and changing your program’s structure in runtime. Yes, JavaScript is that powerful. In this talk, I’ll demonstrate how to solve problems in a smarter way and with better performance and readability by redefining how the language’s features work behind the scenes.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58227",
+            "speakers":[  
+               272529
+            ],
+            "categories":[  
+               "Future JS \u0026 Functional"
+            ]
+         },
+         {  
+            "serial":58253,
+            "name":"Push notifications for web apps",
+            "event_type":"Session",
+            "time_start":"2017-06-22 09:50:00",
+            "time_stop":"2017-06-22 10:30:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Web Push allows real time notifications to be delivered to an app even if the app is not currently in the foreground. Web Apps that use Web Push have higher user engagement which can impact sales. In this presentation we will cover best practices and how to implement Web Push in your existing application.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58253",
+            "speakers":[  
+               272063
+            ],
+            "categories":[  
+               "Modern Web Essentials"
+            ]
+         },
+         {  
+            "serial":58255,
+            "name":"Tame the frontend with Elm",
+            "event_type":"Session",
+            "time_start":"2017-06-21 11:00:00",
+            "time_stop":"2017-06-21 11:40:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Elm is a functional programming language that compiles to JavaScript and allows building robust and safe web apps. By diving into Elm\u0026#39;s syntax and more importantly its model-view-update architecture, we will learn many advantages to developing front-end apps with Elm. We will also investigate steps to getting started with Elm and how to structure a simple app with pure functions.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58255",
+            "speakers":[  
+               220073
+            ],
+            "categories":[  
+               "Future JS \u0026 Functional"
+            ]
+         },
+         {  
+            "serial":58256,
+            "name":"14 ways to bounce a ball: A tour of the web animations ecosystem",
+            "event_type":"Session",
+            "time_start":"2017-06-21 16:25:00",
+            "time_stop":"2017-06-21 17:05:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"There are more options than ever for animating things on the web. In this talk we\u0026#39;ll take a tour of the web animations ecosystem, compare animation approaches in detail, and discover what principles transcend them all. \r\n\r\nTo do this, we\u0026#39;ll use lessons learned from building and maintaining \u0026quot;Bouncy Ball\u0026quot;, a project that compares web animation approaches (think, a \u0026quot;Todo-MVC, for web animation\u0026quot;).",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58256",
+            "speakers":[  
+               272571
+            ],
+            "categories":[  
+               "Modern Web Essentials"
+            ]
+         },
+         {  
+            "serial":58272,
+            "name":"Yes, your site can (and should) be accessible: Lessons learned in building FT.com",
+            "event_type":"Session",
+            "time_start":"2017-06-22 09:50:00",
+            "time_stop":"2017-06-22 10:30:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"In this talk I will explain how we introduced accessibility to The Financial Times website (ft.com) and the lessons we learned along the way. I will also share practical solutions you can implement in your project today, regardless of available time, resources or support.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58272",
+            "speakers":[  
+               272619
+            ],
+            "categories":[  
+               "Modern Web Essentials"
+            ]
+         },
+         {  
+            "serial":58279,
+            "name":"Caches all the way down",
+            "event_type":"Session",
+            "time_start":"2017-06-22 15:35:00",
+            "time_stop":"2017-06-22 16:15:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Caching ensures content gets to our users as fast as possible and provides a great experience to repeat visitors. But getting network and browser caching right\r\ncan be hard and confusing, which explains why most web content today is not properly cached.\r\n\r\nLet\u0026#39;s discuss HTTP cache semantics, strategies, browser internal caches and service workers, and learn how serve our content fast and fresh.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58279",
+            "speakers":[  
+               155970
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":58285,
+            "name":"Source maps demystified",
+            "event_type":"Session",
+            "time_start":"2017-06-22 16:25:00",
+            "time_stop":"2017-06-22 17:05:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"You\u0026#39;re probably familiar with source maps – they let you debug your original, unminified and untranspiled code in the browser. But ever wonder how they actually work? In this talk, we deep dive into the source map format to see what\u0026#39;s under the hood. We\u0026#39;ll cover source map generation tools and parsers, and learn how to manipulate source maps directly for fun and profit.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58285",
+            "speakers":[  
+               149657
+            ],
+            "categories":[  
+               "Web Platform Foundations"
+            ]
+         },
+         {  
+            "serial":58291,
+            "name":"Of monoliths and microservices: Adventures in structuring a web app",
+            "event_type":"Session",
+            "time_start":"2017-06-21 15:35:00",
+            "time_stop":"2017-06-21 16:15:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"At the Dept. of Veteran Affairs, the US Digital Service is building a suite of tools to replace a large legacy application. Knowing the complexity of the end state and enamored with microservices, we broke up our product into separate apps and gems way too aggresively. In this session we will retrospect on our experience, meshing in advice how and when to break up your web app.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58291",
+            "speakers":[  
+               223322
+            ],
+            "categories":[  
+               "Fullstack Development"
+            ]
+         },
+         {  
+            "serial":58318,
+            "name":"Creating a scalable, secure, offline-first, dynamic (static) website with React and serverless architecture",
+            "event_type":"Session",
+            "time_start":"2017-06-22 11:00:00",
+            "time_stop":"2017-06-22 11:40:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Find out why “static” websites, aren’t so static anymore and how they can deliver a state of the art user experience using progressive web app techniques.\r\n\r\nThis talk explores how to use React, markdown, service workers, CDNs and serverless computing to build cost effective, infinitely scalable, offline-first \u0026amp; secure sites, blogs/docs, AND saas products using the same code base across teams.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58318",
+            "speakers":[  
+               272667
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":58335,
+            "name":"Web performance tl;dr workshop",
+            "event_type":"Tutorial",
+            "time_start":"2017-06-20 09:00:00",
+            "time_stop":"2017-06-20 12:30:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Keeping up-to-date with the latest web performance trends, features and techniques can be time consuming and hard. Let us guide you through our top five performance techniques for today\u0026#39;s modern browsers, showing you why you should implement them by demonstrating the clear benefits, and providing the tools and knowledge you need to do so.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58335",
+            "speakers":[  
+               137236,
+               180283
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":58364,
+            "name":"Reliably measuring responsiveness in the wild",
+            "event_type":"Session",
+            "time_start":"2017-06-22 09:50:00",
+            "time_stop":"2017-06-22 10:30:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Responsiveness to user interaction is crucial for users of web apps but bad user experiences such as jank and a slow Time to Interactive are widely prevalent.  We will present new Web Performance APIs that enable developers to reliably measure responsiveness and correctly identify 1st party \u0026amp; 3rd party culprits. We’ll show how these measurements compare to business metrics using real world data.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58364",
+            "speakers":[  
+               248634,
+               82651
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":58378,
+            "name":"Reverse engineering Amazon and the Guardian",
+            "event_type":"Session",
+            "time_start":"2017-06-21 09:00:00",
+            "time_stop":"2017-06-21 09:40:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Despite countless hours of optimizing our sites, many of us still look at sites like Amazon or the Guardian in awe... wondering how they are still so much more performant. What are they doing differently? Through reverse engineering these sites, we\u0026#39;ll shed light on the various tricks and pieces of knowledge they have that we don\u0026#39;t.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58378",
+            "speakers":[  
+               262680
+            ],
+            "categories":[  
+               "Fullstack Development"
+            ]
+         },
+         {  
+            "serial":58400,
+            "name":"Cross-platform progressive web apps",
+            "event_type":"Session",
+            "time_start":"2017-06-22 15:35:00",
+            "time_stop":"2017-06-22 16:15:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"PWAs are the new hotness with Google pressing hard to make them the defacto choice for building mobile applications but what\u0026#39;s to be done about iOS where many of the key API\u0026#39;s are not supported. That\u0026#39;s where Cordova/PhoneGap comes in by polyfilling the missing functionality. In this talk I\u0026#39;ll show you how to create a PWA that runs on the web, Android and iOS from a single code base.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58400",
+            "speakers":[  
+               121527
+            ],
+            "categories":[  
+               "Cross-Platform and Mobile"
+            ]
+         },
+         {  
+            "serial":58476,
+            "name":"The browser hacker\u0026#39;s guide to instantly loading everything",
+            "event_type":"Session",
+            "time_start":"2017-06-21 09:00:00",
+            "time_stop":"2017-06-21 09:40:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Venture deep into the belly of the browser to uncover the secret to instantly loading anything—backed by data. Addy Osmani explains how to use preload, prefetch, preconnect, HTTP/2 server push, service workers, and more and how to ship JavaScript bundles on mobile that don\u0026#39;t break the bank as he shares data-driven techniques and performance patterns for efficiently loading content instantly.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58476",
+            "speakers":[  
+               79712
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":58480,
+            "name":"Atomic design as a migration strategy",
+            "event_type":"Session",
+            "time_start":"2017-06-21 15:35:00",
+            "time_stop":"2017-06-21 16:15:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Atomic design is well suited for migrating web applications. Because you build complexity out of simple components, you can start small and slowly carve out your application. I\u0026#39;d like to share how we\u0026#39;re migrating 6 years of development at Buffer with Atomic Design.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58480",
+            "speakers":[  
+               272797
+            ],
+            "categories":[  
+               "Frontend Frameworks and Libraries"
+            ]
+         },
+         {  
+            "serial":58481,
+            "name":"Perceived performance: The only kind that really matters",
+            "event_type":"Session",
+            "time_start":"2017-06-21 16:25:00",
+            "time_stop":"2017-06-21 17:05:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Perceived performance, in the end, is the only performance that truly matters. If what we make doesn\u0026#39;t *feel* fast, then no amount of optimization counts.  Eli will break down the psychology of how users perceive time, and how we can combine that knowledge with clever use of animation, unconventional event listeners, and predictive design to make our experiences seem faster than they actually are.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58481",
+            "speakers":[  
+               272812
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":58484,
+            "name":"Deep dive into the React component lifecycle",
+            "event_type":"Session",
+            "time_start":"2017-06-22 09:00:00",
+            "time_stop":"2017-06-22 09:40:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"As a beginner, heck even as a veteran, trying to understand all of the different lifecycle events in a React component can be a bit daunting. You\u0026#39;ll find yourself googling for which one to use even after spending months working with React. This talk will describe each lifecycle method and give some examples of how and when to use them.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58484",
+            "speakers":[  
+               149582
+            ],
+            "categories":[  
+               "Frontend Frameworks and Libraries"
+            ]
+         },
+         {  
+            "serial":58496,
+            "name":"Building and deploying microservices with the serverless framework",
+            "event_type":"Tutorial",
+            "time_start":"2017-06-20 13:30:00",
+            "time_stop":"2017-06-20 17:00:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"In this workshop we will explore the principles of a Serverless Architecture.\r\n\r\nWe will build and deploy a service on AWS Lambda retrieving data from DynamoDB via GraphQL.\r\n\r\nThe Serverless Framework (https://serverless.com) will be used and was written to ease the burdens of managing the lifecycle and deploying services in a serverless architecture.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58496",
+            "speakers":[  
+               96355
+            ],
+            "categories":[  
+               "Fullstack Development"
+            ]
+         },
+         {  
+            "serial":58543,
+            "name":"So you thought you were safe using AngularJS. . . .Think again",
+            "event_type":"Session",
+            "time_start":"2017-06-22 15:35:00",
+            "time_stop":"2017-06-22 16:15:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"AngularJS is one of those wonderful frameworks that seems to hide so many of JavaScript’s warts. But while Angular adds much-needed features to the language, it also creates a handful of new security problems.\r\n    \r\nIn this presentation we will walk through an application that illustrates security issues we have discovered in real world applications, and explain the problem with usable solutions.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58543",
+            "speakers":[  
+               272839
+            ],
+            "categories":[  
+               "Frontend Frameworks and Libraries"
+            ]
+         },
+         {  
+            "serial":58584,
+            "name":"Async in JS and readability in Redux",
+            "event_type":"Session",
+            "time_start":"2017-06-21 09:50:00",
+            "time_stop":"2017-06-21 10:30:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"From callbacks to promises to generators to async/await - JavaScript has a myriad of ways to handle out-of-order events and processes - some of which are more readable than others, and some of which are most testable than others. ",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58584",
+            "speakers":[  
+               272903
+            ],
+            "categories":[  
+               "Future JS \u0026 Functional"
+            ]
+         },
+         {  
+            "serial":58611,
+            "name":"Learning Virtual Reality",
+            "event_type":"Tutorial",
+            "time_start":"2017-06-20 13:30:00",
+            "time_stop":"2017-06-20 17:00:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"As virtual reality approaches mainstream consumer use, a vibrant development ecosystem has emerged in the past few years. This hands-on guide takes you through VR development essentials for desktop, mobile, and browser-based applications. You’ll explore the three go-to platforms—OculusVR, Gear VR, and Cardboard VR—as well as several VR development environments, programming tools, and techniques.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58611",
+            "speakers":[  
+               134071
+            ],
+            "categories":[  
+               "The Web Everywhere"
+            ]
+         },
+         {  
+            "serial":58612,
+            "name":"Keeping real with web",
+            "event_type":"Session",
+            "time_start":"2017-06-21 16:25:00",
+            "time_stop":"2017-06-21 17:05:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"With ever more accessible hardware, and native support in the web platform: Virtual Reality is all set to become part of our daily lives, both as consumers and developers.\r\n\r\nI\u0026#39;ll take us through the features and capabilities of WebVR, showing how they can be used to create meaningful (and useful) applications. We\u0026#39;ll also look at how uniquely complementary this is to the rest of our web platform.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58612",
+            "speakers":[  
+               165837
+            ],
+            "categories":[  
+               "Future JS \u0026 Functional"
+            ]
+         },
+         {  
+            "serial":58682,
+            "name":"3rd Parties: Friend or Foe and how to deal with them",
+            "event_type":"Session",
+            "time_start":"2017-06-22 11:00:00",
+            "time_stop":"2017-06-22 11:40:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"3rd parties offer many benefits. But they also break sites, open security holes and are often bad for performance. Learn about proven methods and techniques used by adidas and others on how to manage 3rd parties and break through the IT/business silos. Take away a list of tools, checklists and approaches which will help you to end emotionally loaded discussions and turn to data driven decisions.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58682",
+            "speakers":[  
+               225548
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":58715,
+            "name":"Schema-first development with GraphQL",
+            "event_type":"Session",
+            "time_start":"2017-06-22 09:50:00",
+            "time_stop":"2017-06-22 10:30:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Developing with GraphQL improves not only your API’s performance, but also your teams’. Schema-first GraphQL development forces front-end and back-end teams to agree on a strict contract up front, enabling teams to work quickly and efficiently while staying on spec. This talk will go over the benefits of schema driven development, and discuss what we\u0026#39;ve learned from using GraphQL in production.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58715",
+            "speakers":[  
+               272982
+            ],
+            "categories":[  
+               "Web Services and APIs"
+            ]
+         },
+         {  
+            "serial":58758,
+            "name":"Getting out of your Git messes",
+            "event_type":"Session",
+            "time_start":"2017-06-21 09:50:00",
+            "time_stop":"2017-06-21 10:30:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"If you\u0026#39;ve used Git for any amount of time, you\u0026#39;ve probably gotten yourself into some confusing, frustrating, or downright terrifying situations. You are not alone! In this session you\u0026#39;ll learn how to avoid getting into git messes in the first place. And, how to leverage Git\u0026#39;s powerful features to save yourself when everything seems to go wrong!",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58758",
+            "speakers":[  
+               240318
+            ],
+            "categories":[  
+               "Frontend Tools"
+            ]
+         },
+         {  
+            "serial":58770,
+            "name":"The thing about frameworks",
+            "event_type":"Session",
+            "time_start":"2017-06-22 09:00:00",
+            "time_stop":"2017-06-22 09:40:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"One of the wonderful things about building for the web is the ability to stand on the shoulders of our fellow developers. Each day new frameworks \u0026amp; libraries are released that can make our job easier. But nothing is free. We constantly make trade-offs—whether we know it or not. Critically evaluating these tools and identifying the trade-off\u0026#39;s they require is essential to the health of your site.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58770",
+            "speakers":[  
+               79734
+            ],
+            "categories":[  
+               "Frontend Frameworks and Libraries"
+            ]
+         },
+         {  
+            "serial":58785,
+            "name":"Using npm scripts as your build tool",
+            "event_type":"Session",
+            "time_start":"2017-06-21 15:35:00",
+            "time_stop":"2017-06-21 16:15:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"We will look at using npm scripts to handle your various build needs. We\u0026#39;ll cover running scripts in series or parallel, using lifecycle hooks, passing arguments, piping data, using environment variables, running scripts on file change or when git hooks are triggered, and organizing our scripts in external files. We\u0026#39;ll also talk about modifying our scripts to run across Mac, Linux, and Windows.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58785",
+            "speakers":[  
+               149259
+            ],
+            "categories":[  
+               "Frontend Tools"
+            ]
+         },
+         {  
+            "serial":58816,
+            "name":"Building a style guide with efficiency, accessibility and performance built in",
+            "event_type":"Session",
+            "time_start":"2017-06-22 11:00:00",
+            "time_stop":"2017-06-22 11:40:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Building a lasting styleguide that the product team will use and adopt is challenging. This talk will focus on how we can build that style guide instantly with an atomic-CSS based starter that ensures accessibility, performance and engineering/design efficiency. We will also take a look at some PostCSS tools to help grow the style guide, maintain it, and ease its adoption.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58816",
+            "speakers":[  
+               105191
+            ],
+            "categories":[  
+               "Frontend Tools"
+            ]
+         },
+         {  
+            "serial":58831,
+            "name":"Optimize prime: More pixels than meets the eye",
+            "event_type":"Session",
+            "time_start":"2017-06-21 09:50:00",
+            "time_stop":"2017-06-21 10:30:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"The web’s growing complexities has made for more complex metrics. But the most comprehensible metric remains the page weight, attributed mostly to villainous image management.\r\n2017 marks a decade of the iPhone and development is still challenging. Optimize Prime discusses old and new image formats, impact on rendering, #ux, tools to address AND test their mismanagement for a worldly audience. ",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58831",
+            "speakers":[  
+               239333
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":58851,
+            "name":"Building native mobile apps with React Native",
+            "event_type":"Session",
+            "time_start":"2017-06-22 16:25:00",
+            "time_stop":"2017-06-22 17:05:00",
+            "venue_serial":2801,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Native or hybrid? React Native apps are easier than you think. Now, in just a few minutes, you can get started building apps even as a beginner. The React Native CLI makes the building experience as easy as typing a few commands. Learn how to get started and build an easy, native app in less than 30 minutes. ",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58851",
+            "speakers":[  
+               230073
+            ],
+            "categories":[  
+               "Cross-Platform and Mobile"
+            ]
+         },
+         {  
+            "serial":58853,
+            "name":"RxJS 5: Thinking reactively",
+            "event_type":"Session",
+            "time_start":"2017-06-22 09:00:00",
+            "time_stop":"2017-06-22 09:40:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Find yourself lost trying to choose the right operator to compose your observables? Struggle with how to structure your observable chains? Feel like you\u0026#39;re *almost* there, but you\u0026#39;re just missing *something*? Don\u0026#39;t worry, we\u0026#39;ve all been there, even the \u0026quot;experts\u0026quot;. So let\u0026#39;s get started down the path to being an Rx expert! Discuss common patterns you can use in RxJS with Angular 2, or any framework.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58853",
+            "speakers":[  
+               229804
+            ],
+            "categories":[  
+               "Future JS \u0026 Functional"
+            ]
+         },
+         {  
+            "serial":58872,
+            "name":"Immutable data structures for functional JavaScript",
+            "event_type":"Session",
+            "time_start":"2017-06-21 15:35:00",
+            "time_stop":"2017-06-21 16:15:00",
+            "venue_serial":2799,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Functional programming - programming without side effects or mutability - has great advantages, especially for JavaScript developers; but never mutating data can lead to efficiency problems. We\u0026#39;ll see how immutable, or persistent, data structures provide an elegant solution, and take a hands-on look at two libraries that make it easy to use these remarkable data structures in our own JS projects.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58872",
+            "speakers":[  
+               241987
+            ],
+            "categories":[  
+               "Future JS \u0026 Functional"
+            ]
+         },
+         {  
+            "serial":58929,
+            "name":"CSS: WTF?",
+            "event_type":"Session",
+            "time_start":"2017-06-22 09:00:00",
+            "time_stop":"2017-06-22 09:40:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"You can do that with CSS?! Learn the power of CSS. If you think outside the box, you can solve almost anything with CSS. We’ll cover several CSS WTFs. Depending on your perspective, that can mean \u0026quot;Wonderfully Terrific Feature\u0026quot;, or, very often, \u0026quot;What the @#$%!?!?!\u0026quot;",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58929",
+            "speakers":[  
+               53274
+            ],
+            "categories":[  
+               "Web Platform Foundations"
+            ]
+         },
+         {  
+            "serial":58940,
+            "name":"Making money in an ecosystem of ad blockers",
+            "event_type":"Session",
+            "time_start":"2017-06-22 09:50:00",
+            "time_stop":"2017-06-22 10:30:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Publishers that monetize via advertising are faced with a crisis: the rapid adoption of ad blocking is impacting earnings.  We’ll cover where advertisers went wrong, how users respond (with ad blockers), ad blockers impact on publishers, and publisher responses including subscriptions, soft and hard messaging, and even unblocking ads, with case studies for each approach.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58940",
+            "speakers":[  
+               149374
+            ],
+            "categories":[  
+               "The Web Everywhere"
+            ]
+         },
+         {  
+            "serial":58944,
+            "name":"Don’t kill them softly: Fostering a culture of fearless feedback",
+            "event_type":"Session",
+            "time_start":"2017-06-22 09:00:00",
+            "time_stop":"2017-06-22 09:40:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Like opinions, everyone has feedback. And like opinions, harmful or useless feedback can kill your team softly by demoralization. This talk is for new and seasoned managers alike, as well as individual contributors. Using design anthropology methodologies, we’ll explore a framework you can use to foster a fearless feedback culture that focuses on value, rather than flaws.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58944",
+            "speakers":[  
+               213855
+            ],
+            "categories":[  
+               "People and teams"
+            ]
+         },
+         {  
+            "serial":58950,
+            "name":"CSP: The good, the bad and the ugly",
+            "event_type":"Session",
+            "time_start":"2017-06-21 09:50:00",
+            "time_stop":"2017-06-21 10:30:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Content security policy is a powerful and complex standard which allows you to bring additional level of security to you web application. In this talk I’ll show the not obvious ways which leads to weak CSP, show typical mistakes in CSP, based on Alexa top million and also explain how to build strict CSP.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58950",
+            "speakers":[  
+               273022
+            ],
+            "categories":[  
+               "Modern Web Essentials"
+            ]
+         },
+         {  
+            "serial":58973,
+            "name":"Automated performance testing in preproduction with CI and OSS tools",
+            "event_type":"Session",
+            "time_start":"2017-06-22 16:25:00",
+            "time_stop":"2017-06-22 17:05:00",
+            "venue_serial":2798,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"The worst time to learn that a business-critical performance metric got worse is once a release is in production. The earlier you can detect a problem, the easier it is to resolve. In this talk I will show how teams can integrate open source performance testing tools like Lighthouse, WebPageTest, and others into their build/CI systems, stopping performance regressions and providing transparency.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58973",
+            "speakers":[  
+               75913
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":58976,
+            "name":"Adaptive web applications for all devices",
+            "event_type":"Session",
+            "time_start":"2017-06-21 15:35:00",
+            "time_stop":"2017-06-21 16:15:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"eBay has adopted an innovative approach to adaptively render and deliver UI components for an optimal experience on all devices from a single codebase. Our new and simple-to-use approach based on an intuitive file naming convention has been employed by many teams, is open source, and works with a variety UI libraries and module bundlers.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/58976",
+            "speakers":[  
+               273108
+            ],
+            "categories":[  
+               "Cross-Platform and Mobile"
+            ]
+         },
+         {  
+            "serial":59334,
+            "name":"Get up to date with modern CSS layout",
+            "event_type":"Tutorial",
+            "time_start":"2017-06-20 09:00:00",
+            "time_stop":"2017-06-20 12:30:00",
+            "venue_serial":2800,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"2017 brings a massive change in the tools for laying out websites and applications with CSS. This tutorial will introduce new CSS such as Flexbox and Grid but also explain how existing methods fit into this new system, and how we should approach support for older browsers.",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59334",
+            "speakers":[  
+               187806
+            ],
+            "categories":[  
+               "Modern Web Essentials"
+            ]
+         },
+         {  
+            "serial":59341,
+            "name":"Debugging frontend performance",
+            "event_type":"2-Day Training",
+            "time_start":"2017-06-19 09:00:00",
+            "time_stop":"2017-06-19 17:00:00",
+            "venue_serial":2776,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Tim Kadlec and Patrick Meenan explain how the construction of websites and applications impacts performance as well as how to quickly debug and resolve performance issues. Tim and Patrick dive into how browsers work, how web pages are delivered, backend and frontend issues, optimizations, and techniques to get the best performance and provide hands-on experience for working on web performance.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59341",
+            "speakers":[  
+               79734,
+               106726
+            ],
+            "categories":[  
+               "Performance Matters"
+            ]
+         },
+         {  
+            "serial":59343,
+            "name":"Debugging front-end performance (Day 2)",
+            "event_type":"Training Day 2",
+            "time_start":"2017-06-20 09:00:00",
+            "time_stop":"2017-06-20 17:00:00",
+            "venue_serial":2781,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Tim Kadlec and Patrick Meenan explain how the construction of websites and applications impacts performance as well as how to quickly debug and resolve performance issues. Tim and Patrick dive into how browsers work, how web pages are delivered, backend and frontend issues, optimizations, and techniques to get the best performance and provide hands-on experience for working on web performance.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59343",
+            "speakers":[  
+               79734,
+               106726
+            ],
+            "categories":[  
+
+            ]
+         },
+         {  
+            "serial":59345,
+            "name":"From functional-lite to async programming with JavaScript",
+            "event_type":"2-Day Training",
+            "time_start":"2017-06-19 09:00:00",
+            "time_stop":"2017-06-19 17:00:00",
+            "venue_serial":2777,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Join expert Kyle Simpson for a hands-on, in-depth exploration of functional programming in JavaScript with ES6. You’ll gain a foundational understanding of functional programming and learn how you can incorporate core concepts, such as generators and promises, to write better software. ",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59345",
+            "speakers":[  
+               74368
+            ],
+            "categories":[  
+               "Future JS \u0026 Functional"
+            ]
+         },
+         {  
+            "serial":59346,
+            "name":"From functional-lite to async programming with JavaScript (Day 2)",
+            "event_type":"Training Day 2",
+            "time_start":"2017-06-20 09:00:00",
+            "time_stop":"2017-06-20 17:00:00",
+            "venue_serial":2782,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Join expert Kyle Simpson for a hands-on, in-depth exploration of functional programming in JavaScript with ES6. In this course, you’ll gain a foundational understanding of functional programming and how you can incorporate core concepts, such as generators and promises, to write better software. \r\n\r\n\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59346",
+            "speakers":[  
+               74368
+            ],
+            "categories":[  
+
+            ]
+         },
+         {  
+            "serial":59350,
+            "name":"Mastering progressive web apps: Creating offline app experiences with service workers, web performance, and push notifications",
+            "event_type":"2-Day Training",
+            "time_start":"2017-06-19 09:00:00",
+            "time_stop":"2017-06-19 17:00:00",
+            "venue_serial":2778,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Join expert Maximiliano Firtman for a hands-on, in-depth exploration of progressive web apps. You’ll gain insight into creating PWAs with the modern APIs for mobile and desktop platforms, including app installation and distribution, offline access, push notifications, web performance, and hardware access.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59350",
+            "speakers":[  
+               69608
+            ],
+            "categories":[  
+               "Cross-Platform and Mobile"
+            ]
+         },
+         {  
+            "serial":59351,
+            "name":"Mastering progressive web apps: Creating offline app experiences with service workers, web performance and push notifications (Day 2)",
+            "event_type":"Training Day 2",
+            "time_start":"2017-06-20 09:00:00",
+            "time_stop":"2017-06-20 17:00:00",
+            "venue_serial":2783,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Join expert Maximiliano Firtman for a hands-on, in-depth exploration of Progressive Web Apps. In this course, you’ll get a full insight on how to create PWAs with the modern APIs for mobile and desktop platforms, including App Installation and Distribution, Offline Access, Push Notifications, Web Performance and Hardware access.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59351",
+            "speakers":[  
+               69608
+            ],
+            "categories":[  
+
+            ]
+         },
+         {  
+            "serial":59352,
+            "name":"A complete introduction to React",
+            "event_type":"2-Day Training",
+            "time_start":"2017-06-19 09:00:00",
+            "time_stop":"2017-06-19 17:00:00",
+            "venue_serial":2779,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Brian Holt introduces you to React, one of the leading JavaScript libraries for building user interfaces. You will also explore the React ecosystem as you learn how to use Redux for state management, React Router for navigation and more.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59352",
+            "speakers":[  
+               163080
+            ],
+            "categories":[  
+
+            ]
+         },
+         {  
+            "serial":59353,
+            "name":"A complete introduction to React (Day 2)",
+            "event_type":"Training Day 2",
+            "time_start":"2017-06-20 09:00:00",
+            "time_stop":"2017-06-20 17:00:00",
+            "venue_serial":2784,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Brian Holt introduces you to React, one of the leading JavaScript libraries for building user interfaces. You will also explore the React ecosystem as you learn how to use Redux for state management, React Router for navigation and more.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59353",
+            "speakers":[  
+               163080
+            ],
+            "categories":[  
+
+            ]
+         },
+         {  
+            "serial":59358,
+            "name":"Practical microservices: Technologies and techniques",
+            "event_type":"2-Day Training",
+            "time_start":"2017-06-19 09:00:00",
+            "time_stop":"2017-06-19 17:00:00",
+            "venue_serial":2780,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Join Sequoia McDowell for a hands-on, in-depth exploration of microservices. In this course, you’ll learn what benefits a microservice architecture can bring your organization. We’ll explore how microservices can make your applications faster, more scalable, less expensive to run, easier to update, and more secure.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59358",
+            "speakers":[  
+               227527
+            ],
+            "categories":[  
+
+            ]
+         },
+         {  
+            "serial":59359,
+            "name":"Practical microservices: Technologies and techniques (Day 2)",
+            "event_type":"Training Day 2",
+            "time_start":"2017-06-20 09:00:00",
+            "time_stop":"2017-06-20 17:00:00",
+            "venue_serial":2785,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Join Sequoia McDowell for a hands-on, in-depth exploration of Microservices. In this course, you’ll learn what benefits a microservice architecture can bring your organization. We’ll explore how microservices can make your applications faster, more scalable, less expensive to run, easier to update, and more secure.\r\n",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59359",
+            "speakers":[  
+               227527
+            ],
+            "categories":[  
+
+            ]
+         },
+         {  
+            "serial":59432,
+            "name":"Wednesday keynotes",
+            "event_type":"Keynote",
+            "time_start":"2017-06-21 13:00:00",
+            "time_stop":"2017-06-21 14:45:00",
+            "venue_serial":2840,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Program chairs Rachel Roumeliotis and Ally MacDonald welcome you to the first day of keynotes. ",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59432",
+            "speakers":[  
+               131530,
+               171591,
+               74368,
+               94006
+            ],
+            "categories":[  
+
+            ]
+         },
+         {  
+            "serial":59433,
+            "name":"Thursday keynotes",
+            "event_type":"Keynote",
+            "time_start":"2017-06-22 13:00:00",
+            "time_stop":"2017-06-22 14:45:00",
+            "venue_serial":2840,
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null,
+            "description":"Program chairs Rachel Roumeliotis and Ally MacDonald welcome you to the second day of keynotes. ",
+            "website_url":"https://conferences.oreilly.com/fluent/fl-ca/public/schedule/detail/59433",
+            "speakers":[  
+               131530,
+               171591,
+               74368,
+               94006
+            ],
+            "categories":[  
+
+            ]
+         },
+         {  
+            "serial":"slot_54175",
+            "name":"",
+            "event_type":"break",
+            "time_start":"2017-06-19 10:30:00",
+            "time_stop":"2017-06-19 11:00:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54176",
+            "name":"",
+            "event_type":"break",
+            "time_start":"2017-06-19 12:30:00",
+            "time_stop":"2017-06-19 13:30:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54177",
+            "name":"",
+            "event_type":"break",
+            "time_start":"2017-06-19 15:00:00",
+            "time_stop":"2017-06-19 15:30:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54178",
+            "name":"",
+            "event_type":"break",
+            "time_start":"2017-06-20 10:30:00",
+            "time_stop":"2017-06-20 11:00:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54179",
+            "name":"",
+            "event_type":"break",
+            "time_start":"2017-06-20 12:30:00",
+            "time_stop":"2017-06-20 13:30:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54180",
+            "name":"",
+            "event_type":"break",
+            "time_start":"2017-06-20 15:00:00",
+            "time_stop":"2017-06-20 15:30:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54311",
+            "name":"Morning break",
+            "event_type":"break",
+            "time_start":"2017-06-21 10:30:00",
+            "time_stop":"2017-06-21 11:00:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54312",
+            "name":"Lunch",
+            "event_type":"break",
+            "time_start":"2017-06-21 11:40:00",
+            "time_stop":"2017-06-21 13:00:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54313",
+            "name":"Afternoon break",
+            "event_type":"break",
+            "time_start":"2017-06-21 14:45:00",
+            "time_stop":"2017-06-21 15:35:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54315",
+            "name":"Morning break",
+            "event_type":"break",
+            "time_start":"2017-06-22 10:30:00",
+            "time_stop":"2017-06-22 11:00:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54316",
+            "name":"Lunch",
+            "event_type":"break",
+            "time_start":"2017-06-22 11:40:00",
+            "time_stop":"2017-06-22 13:00:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         },
+         {  
+            "serial":"slot_54317",
+            "name":"Afternoon break",
+            "event_type":"break",
+            "time_start":"2017-06-22 14:45:00",
+            "time_stop":"2017-06-22 15:35:00",
+            "venue_serial":2831,
+            "categories":[  
+               "Break"
+            ]
+         }
+      ],
+      "speakers":[  
+         {  
+            "serial":187806,
+            "name":"Rachel Andrew",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_187806.jpg",
+            "url":"http://rachelandrew.co.uk/",
+            "position":"Founder",
+            "affiliation":"edgeofmyseat.com",
+            "twitter":"rachelandrew",
+            "bio":"\u003cp\u003eRachel Andrew is a front and back-end web developer, author and speaker. Her books include the recent \u003ca href=\"https://abookapart.com/products/get-ready-for-css-grid-layout\"\u003eGet Ready for \u003cspan class=\"caps\"\u003eCSS\u003c/span\u003e Grid Layout\u003c/a\u003e and she is a regular contributor to a number of publications both on and offline. Rachel is co-founder of the \u003ca href=\"https://grabaperch.com\"\u003e\u003cspan class=\"caps\"\u003eCMS\u003c/span\u003e Perch\u003c/a\u003e, a Google Developer Expert and an Invited Expert to the \u003cspan class=\"caps\"\u003eCSS\u003c/span\u003e Working Group. She writes about business and technology on her own site at rachelandrew.co.uk.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272839,
+            "name":"lewis ardern",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272839.jpg",
+            "url":null,
+            "position":"Security Consultant",
+            "affiliation":"Synopsys",
+            "twitter":null,
+            "bio":"\u003cp\u003eLewis Ardern is a Security Consultant at Synopsys/Cigital where he specializes in application security, red teaming and network assessments. He’s the founder of the Leeds Ethical Hacking Society and has helped develop projects such as SecGen (https://github.com/SecGen/SecGen) which generates vulnerable virtual machines on the fly for security training purposes. He is currently working toward his Ph.D. in Web Security.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":149374,
+            "name":"Peter Blum",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_149374.jpg",
+            "url":"http://www.instartlogic.com/",
+            "position":"VP of Product Management",
+            "affiliation":"Instart Logic",
+            "twitter":"PeterAlanBlum",
+            "bio":"\u003cp\u003ePeter Blum is the VP of Product Management at Instart Logic. Previously he was the Sr. Director of Product Management and Marketing at Citrix Systems on the XenClient product line. Prior to the XenSource acquisition by Citrix Peter held a variety of product management and pre-sales roles focusing on the XenServer virtualization platform with XenSource. Before his time at XenSource Peter held a variety of technical pre-sales, consulting, and IT administrator roles.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272571,
+            "name":"Bryan Braun",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272571.jpg",
+            "url":"https://www.bryanbraun.com/",
+            "position":"Developer",
+            "affiliation":"Sparkbox",
+            "twitter":null,
+            "bio":"\u003cp\u003eBryan is a web developer and designer, currently based in the American Midwest.\u003c/p\u003e\n\u003cp\u003eHis work has been \u003ca href=\"https://www.bryanbraun.com/news\"\u003efeatured\u003c/a\u003e in The Washington Post, Daring Fireball, Smashing Magazine, and the Discovery Channel.\u003c/p\u003e\n\u003cp\u003eBryan is always working on some sort of \u003ca href=\"https://www.bryanbraun.com/projects\"\u003eside-project\u003c/a\u003e. He shares what he's learning through \u003ca href=\"https://www.bryanbraun.com/archives\"\u003ewriting\u003c/a\u003e, \u003ca href=\"https://www.bryanbraun.com/speaking\"\u003espeaking\u003c/a\u003e, and \u003ca href=\"https://github.com/bryanbraun\"\u003eopen-source\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eWhen he's not writing code or tweaking fonts, you can find him \u003ca href=\"https://www.bryanbraun.com/books\"\u003ereading\u003c/a\u003e, riding his bicycle, practicing the piano, or building lego worlds with his kids.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":239333,
+            "name":"Henri-R Brisard",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_239333.jpg",
+            "url":null,
+            "position":"Dev",
+            "affiliation":"Freelance",
+            "twitter":"HenriHelvetica",
+            "bio":"\u003cp\u003eHenri-Robert Brisard is a developer who spends time proselytizing performance culture and best practices. Henri can be found co-programming meetups including the Toronto Web Performance one, or reading the latest research docs and case studies. Otherwise, you can find him riding track bikes, tooling with music production software or more recently, encouraging devs to run/walk 5k.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272619,
+            "name":"Laura Carvajal",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272619.jpg",
+            "url":null,
+            "position":"Senior Developer",
+            "affiliation":"The Financial Times",
+            "twitter":"lc512k",
+            "bio":"\u003cp\u003eLaura is a Senior Developer at The Financial Times building FT.com. She has been working in web development for the past twelve years and is an advocate for accessibility.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":273108,
+            "name":"Connie Chang",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_273108.jpg",
+            "url":null,
+            "position":"Software Engineer",
+            "affiliation":"eBay",
+            "twitter":"fierysunset",
+            "bio":"\u003cp\u003eConnie is a frontend engineer at eBay who is passionate about building UI with excellent usability that is served from simple, clean, and easily understandable code.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272903,
+            "name":"Nicole Chung",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272903.jpg",
+            "url":"https://twg.io/",
+            "position":"Software Engineer",
+            "affiliation":"TWG",
+            "twitter":null,
+            "bio":"\u003cp\u003eNicole Chung is a self-taught full-stack developer. In her current role, Software Engineer, at Toronto-based product studio \u003cspan class=\"caps\"\u003eTWG\u003c/span\u003e, Nicole works with Node.JS, React, and Redux to build fast and efficient user interfaces. When she’s not at work, she’s a full-stack mentor at HackerYou. She’s been on a few never-ending projects, like a self serve telco platform, where she developed for web, iOS, and Android.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":149582,
+            "name":"Jonathan Creamer",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_149582.jpg",
+            "url":"http://jonathancreamer.com/",
+            "position":"JavaScript Engineer",
+            "affiliation":"Lonely Planet",
+            "twitter":"jcreamer898",
+            "bio":"\u003cp\u003eJavaScript and front end technologies are my passioin. I also believe that you cannot ever stop learning which is why I stay active in the development community attending user groups like NashJS, ID of Nashville, and NashDotNet, blogging at Jonathan Creamer.com, and scouring Twitter and the internet for as much knowledge I can squeeze into my brain. I work as a Senior Front End Developer at Lonely Planet and am having a great time developing front end applications. I am also a Microsoft \u003cspan class=\"caps\"\u003eMVP\u003c/span\u003e for JavaScript. Please feel free to contact me, I love meeting other developers who are passionate about what they do.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":18472,
+            "name":"J. David Eisenberg",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_18472.jpg",
+            "url":"http://langintro.com/",
+            "position":"Instructor",
+            "affiliation":"Evergreen Valley College",
+            "twitter":"jdeisenberg",
+            "bio":"\u003cp\u003eI am an instructor for the Computer and Information Technology department at Evergreen Valley College in San Jose.\u003c/p\u003e\n\u003cp\u003eI have co-authored \u0026#8220;\u003cspan class=\"caps\"\u003eSVG\u003c/span\u003e Essentials\u0026#8221; and \u0026#8220;Introducing Elixir\u0026#8221; for O'Reilly and Associates. Also author of \u0026#8220;Etudes for Erlang,\u0026#8221; \u0026#8220;Etudes for Elixir,\u0026#8221; and \u0026#8220;Etudes for ClojureScript\u0026#8221;.\u003c/p\u003e\n\u003cp\u003eI live in San Jose, California, with my cats, Marco Polo and Awa.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":171853,
+            "name":"Wayne Elgin",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_171853.jpg",
+            "url":"http://cantina.co/",
+            "position":"Principal User Experience Consultant",
+            "affiliation":"Cantina Consulting",
+            "twitter":"esjay",
+            "bio":"\u003cp\u003eWayne loves helping people do amazing things with technology; especially the people who use the things he makes on the web. Since 1997, he's been creating web, video, and learning experiences. He is passionate about experience design and front-end engineering for Boston-based agency Cantina. He can usually be found in Tennessee biking with his wife and 3 kids and collecting PC games on Steam.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":94006,
+            "name":"Tammy Everts",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_94006.jpg",
+            "url":"http://www.performancebeacon.com/",
+            "position":"Senior researcher and evangelist",
+            "affiliation":"SOASTA",
+            "twitter":"tameverts",
+            "bio":"\u003cp\u003eTammy has been studying how people use the internet since the olden days, when being able to centre text was a big deal and you could have any colour of website you wanted, as long as that colour was grey. Her twenty-year research journey into the heart of UX began when she rigged out her first usability test lab with a state-of-the-art Power Mac 9500. Since then, she’s also done some pretty far-out studies involving \u003cspan class=\"caps\"\u003eEEG\u003c/span\u003e headsets and facial action coding.\u003c/p\u003e\n\u003cp\u003eToday, as director of research at \u003cspan class=\"caps\"\u003eSOASTA\u003c/span\u003e, Tammy gets to analyze billions of beacons’ worth of real user data in order to understand the intersection between web performance, user experience, and business metrics. Her book, \u003ca href=\"http://shop.oreilly.com/product/0636920041450.do\"\u003e\u003cem\u003eTime Is Money: The Business Value of Web Performance\u003c/em\u003e\u003c/a\u003e, was published by O’Reilly Media in 2016. She runs the popular industry blog \u003ca href=\"http://www.soasta.com/blog/\"\u003eThe Performance Beacon\u003c/a\u003e and co-curates (with Tim Kadlec) \u003ca href=\"https://wpostats.com/\"\u003e\u003cspan class=\"caps\"\u003eWPO\u003c/span\u003e Stats\u003c/a\u003e.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":220073,
+            "name":"Jeremy Fairbank",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_220073.jpg",
+            "url":"http://blog.jeremyfairbank.com/",
+            "position":"Software Engineer",
+            "affiliation":"Sigient",
+            "twitter":"elpapapollo",
+            "bio":"\u003cp\u003eJeremy Fairbank is a remote web developer in Tennessee. He works for \u003ca href=\"http://www.pushagency.io\"\u003eSigient\u003c/a\u003e with an entirely distributed team that creates amazing designs and software. He has worked on the frontend and backend extensively with React, Angular, Backbone, and Ruby on Rails. He blogs at \u003ca href=\"http://blog.jeremyfairbank.com\"\u003eblog.jeremyfairbank.com\u003c/a\u003e and has been featured in \u003cem\u003eJavaScript Weekly\u003c/em\u003e a few times. Outside of developing, he enjoys being a husband and father and playing guitar.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272365,
+            "name":"Joao Fernandes",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272365.jpg",
+            "url":"http://joaofn.com/",
+            "position":"Tech writer",
+            "affiliation":"Docker",
+            "twitter":null,
+            "bio":"\u003cp\u003eI was a Senior Academy Engineer at Outsystems where I did docs, training, curriculum development, and usability studies.\u003c/p\u003e\n\u003cp\u003eI'm now the documentation lead for Docker Datacenter, interview for docs and training, and work side-by-side with designers and developers.\u003c/p\u003e\n\u003cp\u003eYou can learn more at http://www.joaofn.com/about/\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272529,
+            "name":"Lucas Fernandes",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272529.jpg",
+            "url":"http://lucasfcosta.com/",
+            "position":"Full-Stack Developer",
+            "affiliation":"Shaw and Partners",
+            "twitter":null,
+            "bio":"\u003cp\u003eA developer that breathes JavaScript. Passionate about Open Source and sharing knowledge, Lucas is a core team member of Chai.js, one of the most popular libraries on the Node.js ecosystem and is always trying to find better and more efficient ways to solve problems. Strive to be lazy, that is his motto.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":69608,
+            "name":"Maximiliano Firtman",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_69608.jpg",
+            "url":"http://www.firt.mobi/",
+            "position":"Speaker",
+            "affiliation":"ITMaster Professional Training",
+            "twitter":"firt",
+            "bio":"\u003cp\u003e\u003cspan class=\"bold\"\u003eMax Firtman\u003c/span\u003e, a mobile and web developer, trainer, speaker, and writer, teaches mobile HTML5 and performance trainings for top companies around the world. The founder of ITMaster, an IT-training company, Max is a well-known professional in the mobile-web community, blogging about mobile-web platforms on \u003ca href=\"http://www.mobilexweb.com/\"\u003eMobilexweb.com\u003c/a\u003e and keeping compatibility tables updated at \u003ca href=\"http://mobilehtml5.org/\"\u003eMobilehtml5.org\u003c/a\u003e. He has written many books, including \u003cem\u003eProgramming the Mobile Web\u003c/em\u003e (available in a second edition) and the recent \u003cem\u003eHigh Performance Mobile Web\u003c/em\u003e, published by O’Reilly Media. He is a frequent speaker at conferences, including QCon, Mobilism, \u003cspan class=\"caps\"\u003eOSCON\u003c/span\u003e, Velocity, Fluent, Google Developer Day, JSConf, \u003cspan class=\"caps\"\u003eGOTO\u003c/span\u003e, AdobeCamp, and many other events around the world. Max has been widely recognized for his work in the mobile-web community by Adobe Community Professional, Microsoft IE User Agent, Nokia Developer Champion, BlackBerry Elite, and more.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272812,
+            "name":"Eli Fitch",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272812.jpg",
+            "url":"http://eli.wtf/",
+            "position":"Tech Lead",
+            "affiliation":"Social Tables",
+            "twitter":null,
+            "bio":"\u003cp\u003eEli Fitch is a front end developer with a passion for web performance, animation and all things 3D. He leads a team of amazing engineers making a WebGL event diagramming app at Social Tables, a startup in his hometown of Washington, DC. He also organizes the DC CodePen Meetup, and dabbles in design, 3D art \u0026 game development.  When not sat in front of a computer, he restores his perpetually broken stable of 70s motorcycles and attempts to keep his historic row-house from collapsing in on itself like a dying star.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":262680,
+            "name":"David Fox",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_262680.jpg",
+            "url":null,
+            "position":"CTO",
+            "affiliation":"LookZook",
+            "twitter":"theobto",
+            "bio":"\u003cp\u003eDavid Fox got his start in programming and UX as a Flash game developer during golden age of Flash gaming (remember Newgrounds?). Since then he’s applied that knowledge and transitioned to the web: becoming a Blink contributor, writer for various blogs like the annual \u003ca href=\"https://calendar.perfplanet.com/2016/\"\u003ePerformance Calendar\u003c/a\u003e and founder of LookZook—a company providing highly visual, web performance metrics for developers and CMOs. In his free time, David enjoys reading about psychology, cooking, playing video games and beating his friends at poker.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":165837,
+            "name":"Ben Foxall",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_165837.jpg",
+            "url":"http://benjaminbenben.com/",
+            "position":"Web Developer",
+            "affiliation":"White October",
+            "twitter":"benjaminbenben",
+            "bio":"\u003cp\u003eBen is a software engineer based in Oxford, UK.  He loves the web and have a particular fondness of JavaScript.\u003c/p\u003e\n\u003cp\u003eIf something can be live-demoed, Ben will live-demo it.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":180283,
+            "name":"Michael Gooding",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_180283.jpg",
+            "url":null,
+            "position":"WPO Evangelist",
+            "affiliation":"Akamai Technologies",
+            "twitter":"Michael_G_81",
+            "bio":"\u003cp\u003eMichael Gooding is a Web Performance Specialist at Akamai Technologies working with some of the biggest web sites in the world helping customers identify performance bottlenecks and helping solve often complex problems.  With 10 years’ experience in the IT industry, Michael started professional life as a developer but moved into consultancy when performance issues started to become the norm and not the exception.  More recently Michael has helped customers not only improve performance but aid in the study of linking improved performance back to increased revenue.  Michael is constantly researching latest optimisations trends and current techniques and sits on the organising committee of the London Web Performance Group.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":84713,
+            "name":"Chris Griffith",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_84713.jpg",
+            "url":"http://www.nortekcontrol.com/",
+            "position":"User Experience Lead",
+            "affiliation":"Nortek Security \u0026amp; Control",
+            "twitter":"chrisgriffith",
+            "bio":"\u003cp\u003eChris Griffith is the User Experience Lead at a home automation and security company and is also an instructor at University of California, San Diego Extension teaching mobile application development. Recently he finished his first book, Mobile App Development with Ionic 2, published by O’Reilly Press. He is also an Adobe Community Professional, specializing in PhoneGap/Cordova. He has developed several mobile applications, a variety of code-hinters and ConfiGAP for PhoneGap Build. In addition, he has served as a technical reviewer for several publications and written for uxmag.com. You can follow him on twitter @chrisgriffith or at chrisgriffith.wordpress.com.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":161332,
+            "name":"Miguel Grinberg",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_161332.jpg",
+            "url":"http://blog.miguelgrinberg.com/",
+            "position":"Software Developer",
+            "affiliation":"Rackspace",
+            "twitter":"miguelgrinberg",
+            "bio":"\u003cp\u003eMiguel Grinberg has over 25 years of experience as a software engineer. In his current role at Rackspace, he writes \u003cspan class=\"caps\"\u003eAWS\u003c/span\u003e microservices day in and day out. He blogs at http://blog.miguelgrinberg.com about a variety of topics including web development, Python, robotics, photography and the occasional movie review. Miguel lives in beautiful Portland, Oregon. Follow @miguelgrinberg on Twitter.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272797,
+            "name":"Harrison Harnisch",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272797.jpg",
+            "url":"https://hharnisc.github.io/",
+            "position":"Sr. Software Engineer",
+            "affiliation":"Buffer",
+            "twitter":null,
+            "bio":"\u003cp\u003eSenior Software Engineer at Buffer, implementing the migration from \u003cspan class=\"caps\"\u003ePHP\u003c/span\u003e and Backbone to React. In a former life I was touring drummer for a band called \u003cem\u003eThe Sweethearts Of The Radio\u003c/em\u003e (not the famous one).\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":75913,
+            "name":"Billy Hoffman",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_75913.jpg",
+            "url":"http://zoompf.com/",
+            "position":"Head of Product",
+            "affiliation":"Rigor",
+            "twitter":"zoompf",
+            "bio":"\u003cp\u003eBilly Hoffman is the director of product at Rigor, where he focuses on delivering best-in-class performance software. From hacking into sites as a penetration tester to optimizing performance for the Fortune 500, Billy has over a decade of deep technical experience into the inner workings of complex web applications. Billy was the lead researcher at the web security software company \u003cspan class=\"caps\"\u003eSPI\u003c/span\u003e Dynamics, where he developed and automated new techniques to exploit web vulnerabilities and spoke extensively at conferences such as Black Hat and \u003cspan class=\"caps\"\u003eRSA\u003c/span\u003e about his findings. Following SPI’s acquisition by Hewlett-Packard in 2007, Billy managed HP’s web security research group. Billy founded the web performance company Zoompf in late 2009, where he developed the industry’s first site-wide performance analysis product that tells you the root cause of your performance issues. He has spoken at industry conferences such as Velocity and has been a contributing author for O’Reilly’s \u003cem\u003eWeb Performance Daybook\u003c/em\u003e. Billy holds a BS in computer science from the Georgia Institute of Technology. Outside of work, Billy enjoys refinishing rooms in his house and spending time with his wife, Jill, and their two daughters.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":163080,
+            "name":"Brian Holt",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_163080.jpg",
+            "url":"http://www.netflix.com/",
+            "position":"Senior UI Engineer",
+            "affiliation":"Netflix",
+            "twitter":"holtbt",
+            "bio":"\u003cp\u003e\u003cspan class=\"bold\"\u003eBrian Holt\u003c/span\u003e is currently working as a senior user interface engineer at Netflix. This means he's using JavaScript to enable your (and his own) \u003cem\u003eHouse of Cards\u003c/em\u003e binge watching. Previously, he worked as the director of Redditgifts frontend at Reddit. When not on a Netflix bender or devouring content on Reddit, Brian is probably hanging out with his wife and their dog, running, traveling, or playing video games. Brian is currently a resident of San Francisco, CA.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":192417,
+            "name":"Cory House",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_192417.jpg",
+            "url":"http://www.vinsolutions.com/",
+            "position":"Software Architect",
+            "affiliation":"Vinsolutions",
+            "twitter":"housecor",
+            "bio":"\u003cp\u003eCory is an international speaker, Pluralsight author, Microsoft \u003cspan class=\"caps\"\u003eMVP\u003c/span\u003e, Software Architect, independent consultant, and teacher. He has trained over 10,000 software developers at conferences worldwide on practices like clean coding, front-end development, testing, and software architecture. He currently specializes in JavaScript and front-end development using React. Cory is author of multiple Pluralsight courses and is active on Twitter as @housecor.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":137236,
+            "name":"Gareth Hughes",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_137236.jpg",
+            "url":null,
+            "position":"Enterprise Architect",
+            "affiliation":"Akamai",
+            "twitter":"brassic_lint",
+            "bio":"\u003cp\u003eGareth is Web Performance Enterprise Architect at Akamai in the UK. Helping and advising customers on how to improve site performance at the front-end. He's worked in web performance for 6+ years, with a background in Development, IT and Operations.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":143846,
+            "name":"Dean Hume",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_143846.jpg",
+            "url":"http://www.deanhume.com/",
+            "position":"Developer",
+            "affiliation":"Settled",
+            "twitter":"deanohume",
+            "bio":"\u003cp\u003eDean Hume is an author, Google Developer Expert, and all-around web performance geek. He regularly writes articles based on software development on his blog at \u003ca href=\"http://deanhume.com/\"\u003eDeanhume.com\u003c/a\u003e.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":219647,
+            "name":"Ben Ilegbodu",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_219647.jpg",
+            "url":"http://www.benmvp.com/",
+            "position":"Senior UI Engineer",
+            "affiliation":"Eventbrite",
+            "twitter":"benmvp",
+            "bio":"\u003cp\u003eBen is a Christian, a husband and a father of 2 with 10+ years of experience developing user interfaces for the Web. He currently leads and manages Eventbrite’s Frontend Platform team. On the side, Ben also enjoys playing basketball, \u003cspan class=\"caps\"\u003eDIY\u003c/span\u003e, watching movies, and blogging  (\u003ca href=\"http://www.benmvp.com\"\u003ebenmvp.com\u003c/a\u003e) / tweeting (\u003ca href=\"https://twitter.com/benmvp\"\u003e@benmvp\u003c/a\u003e) about his experiences with new web development technologies.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":82651,
+            "name":"Nic Jansma",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_82651.jpg",
+            "url":"http://nicj.net/",
+            "position":"Developer",
+            "affiliation":"SOASTA",
+            "twitter":"nicj",
+            "bio":"\u003cp\u003eNic Jansma is a software developer building high-performance websites, apps, and open source tools at \u003cspan class=\"caps\"\u003eSOASTA\u003c/span\u003e, where he works on mPulse and boomerang. He is also a Microsoft \u003cspan class=\"caps\"\u003eMVP\u003c/span\u003e for IE.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":79734,
+            "name":"Tim Kadlec",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_79734.jpg",
+            "url":"https://timkadlec.com/",
+            "position":"Developer Relations",
+            "affiliation":"Snyk",
+            "twitter":"tkadlec",
+            "bio":"\u003cp\u003e\u003cspan class=\"bold\"\u003eTim Kadlec\u003c/span\u003e is the head of developer relations at \u003ca href=\"https://snyk.io\"\u003eSnyk\u003c/a\u003e \u0026#8211; a company focused on making open source code more secure. He is the author of \u003ca href=\"http://www.implementingresponsivedesign.com/\"\u003e\u003cem\u003eImplementing Responsive Design: Building Sites for an Anywhere, Everywhere Web\u003c/em\u003e\u003c/a\u003e (New Riders, 2012) and was a contributing author for \u003ca href=\"http://shop.oreilly.com/product/0636920039730.do\"\u003e\u003cem\u003eHigh Performance Images\u003c/em\u003e\u003c/a\u003e (O'Reilly, 2016),  \u003ca href=\"https://shop.smashingmagazine.com/products/smashing-book-4-ebooks\"\u003e\u003cem\u003eSmashing Book #4: New Perspectives on Web Design\u003c/em\u003e\u003c/a\u003e and \u003ca href=\"http://www.amazon.com/Web-Performance-Daybook-Volume-2/dp/1449332919\"\u003e\u003cem\u003eWeb Performance Daybook Volume 2\u003c/em\u003e\u003c/a\u003e (O'Reilly, 2012). He writes sporadically at \u003ca href=\"https://timkadlec.com\"\u003eTimkadlec.com\u003c/a\u003e.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":213855,
+            "name":"Amélie Lamont",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_213855.jpg",
+            "url":"http://www.amelielamont.com/",
+            "position":"Product Designer",
+            "affiliation":"The New York Times",
+            "twitter":"amelielamont",
+            "bio":"\u003cp\u003eAmélie Lamont is a product designer(d) and writer based in Brooklyn, NY. She is currently employed at The New York Times and specializes in using cultural studies and design anthropology to inform her design process.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":230073,
+            "name":"Tracy Lee",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_230073.jpg",
+            "url":"http://thisdot.co/",
+            "position":"Founder",
+            "affiliation":"This Dot",
+            "twitter":"ladyleet",
+            "bio":"\u003cp\u003eTracy is a Google Developer Expert, JavaScript developer, and serial entrepreneur. After the acquisition of her last startup as \u003cspan class=\"caps\"\u003eCEO\u003c/span\u003e, she discovered code and spends her time exploring JS frameworks. Tracy is the creator of This.JavaScript, ng-cruise, Modern.Web podcast, RxWorkshop, and Contributor Days. She is also Co-Founder of This Dot Labs, a framework agnostic agency helping mentor teams build ambitious apps. You can find her at http://thisdot.co/about and on Twitter @ladyleet.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":229804,
+            "name":"Ben Lesh",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_229804.jpg",
+            "url":"http://netflix.com/",
+            "position":"Senior UI Engineer",
+            "affiliation":"Netflix",
+            "twitter":"BenLesh",
+            "bio":"\u003cp\u003eBen Lesh is the lead author and development lead of RxJS 5, which is a rewrite of RxJS with goals of better performance and JavaScript future specification compliance.\u003c/p\u003e\n\u003cp\u003eHe is also the co-author of redux-observable and has contributed to various open source projects such as Angular.js and Redux.\u003c/p\u003e\n\u003cp\u003eIn addition to advising the Angular team on their Rx integration, Ben is also a Senior Software Engineer at Netflix on the UI platform team and Founder of RxWorkshop.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":190101,
+            "name":"Jen Looper",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_190101.jpg",
+            "url":"http://www.ladeezfirstmedia.com/",
+            "position":"Developer Advocate",
+            "affiliation":"Telerik",
+            "twitter":"jenlooper",
+            "bio":"\u003cp\u003eJen Looper is a Boston-based web and mobile developer specializing in cross-platform educational and fitness apps for iOS, Android, Nook, Kindle, and Windows Phone. As a developer advocate at Telerik, Jen enjoys meeting other developers to talk about innovations in frontend technologies. You can view her portfolio at \u003ca href=\"http://www.ladeezfirstmedia.com\"\u003eLadeezfirstmedia.com\u003c/a\u003e. Jen is passionate about hardware hacking and has launched \u003ca href=\"http://thinglearn.com\"\u003eThingLearn.com\u003c/a\u003e to teach kids about science and programming by means of the internet of things.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":171591,
+            "name":"Allyson MacDonald",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_171591.jpg",
+            "url":null,
+            "position":"Editor",
+            "affiliation":"O\u0026#39;Reilly Media",
+            "twitter":"",
+            "bio":"\u003cp\u003eAlly MacDonald is an editor at O’Reilly Media, where she covers web programming topics. Ally spends a lot of time thinking about how to help developers tackle web development churn, the intersection of design and technology, and tacos.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":121527,
+            "name":"Simon MacDonald",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_121527.jpg",
+            "url":"http://simonmacdonald.com/",
+            "position":"Senior Software Scientist",
+            "affiliation":"Adobe",
+            "twitter":"macdonst",
+            "bio":"\u003cp\u003eSimon has over 20 years of development experience and has worked on a variety of projects including object oriented databases, police communication systems, speech recognition and unified messaging. His current focus is contributing to the open source PhoneGap project to enable developers to create cross platform mobile applications using Web technologies. Simon’s been building web applications since the days they were written using shell scripts and he still has nightmares about those dark days.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272982,
+            "name":"Danielle Man",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272982.jpg",
+            "url":"https://github.com/daniman",
+            "position":"Core Developer",
+            "affiliation":"Meteor Development Group",
+            "twitter":null,
+            "bio":"\u003cp\u003eDanielle is a frontend developer at the Meteor Development Group, where she works with GraphQL + Meteor + React every day. She has a passion for UI/UX and is excited about the improved developer experience GraphQL brings. She graduated from \u003cspan class=\"caps\"\u003eMIT\u003c/span\u003e with a degree in Computer Science in 2016.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":227527,
+            "name":"Sequoia McDowell",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_227527.jpg",
+            "url":"http://sequoia.makes.software/",
+            "position":"Educator",
+            "affiliation":"Charm/Offensive",
+            "twitter":"_sequoia",
+            "bio":"\u003cp\u003e\u003cspan class=\"bold\"\u003eSequoia McDowell\u003c/span\u003e is a software engineer-cum-educator specializing in Node.js (at the moment). He’s spoken at national programming and IT conferences on topics ranging from testing to build tools to encrypted communication, and he's one of the few JavaScript educators with the distinction of having run Node.js trainings in every time zone in the continental United States. As a member of the NodeSchool community, Sequoia has extensive experience teaching people about Node.js both online and off.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":82,
+            "name":"Erin McKean",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_82.jpg",
+            "url":"http://www.wordnik.com/",
+            "position":"Lead Developer Evangelist, LoopBack/IBM; Founder, Wordnik",
+            "affiliation":"IBM; Wordnik",
+            "twitter":"emckean",
+            "bio":"\u003cp\u003eErin McKean is Lead Developer Evangelist or Loopback at \u003cspan class=\"caps\"\u003eIBM\u003c/span\u003e. She is also the founder of Wordnik.com, the world's biggest online, non-profit dictionary. Before becoming overly attached to Javascript, she dabbled in HyperCard, Perl, and Omnimark (if you have ever written anything in Omnimark, she will buy you a drink). She's the author of the Weird and Wonderful Words books, the best-selling novel The Secret Lives of Dresses, and (most recently) The Hundred Dresses, a field guide to dresses. She blogs at \u003ca href=\"http://dressaday.com/\"\u003edressaday.com\u003c/a\u003e. When you  meet her, please tell her your favorite word and the last \u003cspan class=\"caps\"\u003eAPI\u003c/span\u003e you used.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":106726,
+            "name":"Patrick Meenan",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_106726.jpg",
+            "url":"http://www.webpagetest.org/",
+            "position":"Software Engineer",
+            "affiliation":"Google",
+            "twitter":"PatMeenan",
+            "bio":"\u003cp\u003e\u003cspan class=\"bold\"\u003ePatrick Meenan\u003c/span\u003e has been working on web performance in one form or another for the last 15 years and is currently working at Google to make Chrome and the Web faster. Patrick created the popular open source WebPagetest web performance measurement tool, runs the free instance of it at \u003ca href=\"http://www.webpagetest.org\"\u003eWebPagetest.org\u003c/a\u003e, and can frequently be found in the forums helping site owners understand and improve their website performance.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":197177,
+            "name":"Victor Mejia",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_197177.jpg",
+            "url":null,
+            "position":"Senior UI Engineer",
+            "affiliation":"McGraw-Hill Education",
+            "twitter":"_victormejia",
+            "bio":"\u003cp\u003eVictor Mejia is a Senior UI Engineer in the Digital Platform Group at McGraw-Hill Education. He specializes in building great user experiences and digital learning tools for the web. He is the organizer of the Angular Orange County meetup, and is also a happy husband and dad.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":229869,
+            "name":"Ruthie Nachmany",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_229869.jpg",
+            "url":null,
+            "position":"Software Engineer, Architecture Team",
+            "affiliation":"Warby Parker",
+            "twitter":"ruthienachmany",
+            "bio":"\u003cp\u003eRuthie Nachmany is a software engineer at Warby Parker. When she's not trying on glasses and building software that helps people try on glasses, she helps organize the the \u003cspan class=\"caps\"\u003eNYC\u003c/span\u003e Amazon Alexa Meetup, a biweekly speaker series called \u003cspan class=\"caps\"\u003eNYC\u003c/span\u003e Salon, and a sunrise club.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":273022,
+            "name":"Ilya Nesterov",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_273022.jpg",
+            "url":null,
+            "position":"Engineering Manager",
+            "affiliation":"Shape Security",
+            "twitter":null,
+            "bio":"\u003cp\u003eIlya Nesterov is currently an engineering manager at Shape Security. Prior to Shape, Ilya worked at F5 Networks, and earned his master’s degree from Tomsk Polytechnic University. His interests include, but are not limited to, modern Web Application security threats and countermeasures, botnets, malware infrastructure, exploits and honeypot development. Ilya also works as an independent security researcher and is a speaker on security topics.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":270900,
+            "name":"Mike North",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_270900.jpg",
+            "url":"https://mike.works/",
+            "position":"Staff Software Engineer",
+            "affiliation":"LinkedIn",
+            "twitter":"michaellnorth",
+            "bio":"\u003cp\u003eMike is a product and modern web tech leader, with a broad range of experience working with startups and Fortune 500 companies alike. Before taking on an engineering leadership role at LinkedIn, he was the \u003cspan class=\"caps\"\u003eCTO\u003c/span\u003e of Levanto Financial, and UI Architect for Yahoo's Ads \u0026 Data division.\u003c/p\u003e\n\u003cp\u003eMike has a passion for teaching, and has produced several popular JavaScript video courses for Front End Masters, with Pluralsight courses on the way!\u003c/p\u003e\n\u003cp\u003eHe is an avid open source contributor, and has landed thousands of commits into the JavaScript and Erlang ecosystems. As a \u0026#8220;product guy who codes\u0026#8221;, Mike believes in putting prototypes in the hands of users as quickly as possible.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":96355,
+            "name":"Kevin Old",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_96355.jpg",
+            "url":"http://www.kevinold.com/",
+            "position":"Front End Architect",
+            "affiliation":"LifeWay",
+            "twitter":"kevinold",
+            "bio":"\u003cp\u003eKevin Old is a Front End Architect living White House, TN. He works for LifeWay Christian Resources building front ends using React, React Native and Electron. He's a huge fan of coffee, micro-roasters and the entire ecosystem around single origin coffee. When he is not developing software he enjoys spending time with his wife, 2 sons, 2 dachshunds and cat.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":79712,
+            "name":"Addy Osmani",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_79712.jpg",
+            "url":"http://www.shortsalebuilder.com/",
+            "position":"Developer Programs Engineer",
+            "affiliation":"Google Chrome",
+            "twitter":"addyosmani",
+            "bio":"\u003cp\u003eAddy Osmani is an engineering manager on the Chrome team at Google. Addy also leads a number of open source web tooling and library projects. His other work has included contributions to Modernizr and similar projects and personal projects like TodoMVC, which helps developers compare JavaScript \u003cspan class=\"caps\"\u003eMVC\u003c/span\u003e frameworks and jQuery UI Bootstrap. Addy is the author of \u003cem\u003eDeveloping Backbone.js Applications\u003c/em\u003e and \u003cem\u003eLearning JavaScript Design Patterns\u003c/em\u003e.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":248634,
+            "name":"Shubhie Panicker",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_248634.jpg",
+            "url":null,
+            "position":"Staff Software Engineer",
+            "affiliation":"Google",
+            "twitter":"",
+            "bio":"\u003cp\u003eShubhie Panicker is a staff engineer on Blink: the Chrome Web Platform at Google, where she focusses on web performance such as developing standardized Web Performance APIs.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272063,
+            "name":"Olga Petrova",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272063.jpg",
+            "url":"http://sencha.com/",
+            "position":"Software Engineer",
+            "affiliation":"Sencha",
+            "twitter":null,
+            "bio":"\u003cp\u003eOlga Petrova is a software developer with more than 13 years of experience in developing enterprise and data science applications. She has worked with a broad range of web technologies, JavaScript libraries, and frameworks, and she has a special interest in data visualization and developing enterprise web applications. Olga has a Master's degree in Computer Science from Tyumen State University in Russia. She enjoys rock climbing, sailing, and snowboarding.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":131530,
+            "name":"Rachel Roumeliotis",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_131530.jpg",
+            "url":"http://www.oreilly.com/",
+            "position":"Strategic Content Director",
+            "affiliation":"O\u0026#39;Reilly Media",
+            "twitter":"rroumeliotis",
+            "bio":"\u003cp\u003eRachel Roumeliotis, a strategic content director at O'Reilly Media, leads an editorial team that covers a wide variety of programming topics ranging from full stack to open source in the enterprise to emerging programming languages. Rachel is a programming chair of \u003cspan class=\"caps\"\u003eOSCON\u003c/span\u003e and O’Reilly’s Software Architecture Conference. She has been working in technical publishing for 10 years, acquiring content in many areas including mobile programming, UX, computer security, and AI.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":223322,
+            "name":"Shane Russell",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_223322.jpg",
+            "url":null,
+            "position":"Software Developer",
+            "affiliation":"Thoughtworks",
+            "twitter":"shanear",
+            "bio":"\u003cp\u003eShane Russell is a software developer helping make Federal Government software work better and cost less at the United States Digital Service. He likes making things with \u003cspan class=\"caps\"\u003eCSS\u003c/span\u003e and JavaScript.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":105191,
+            "name":"Archana Sankaranarayanan",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_105191.jpg",
+            "url":"https://website-fe361.firebaseapp.com/",
+            "position":"Senior UI Engineer",
+            "affiliation":"Netflix",
+            "twitter":"archana_june",
+            "bio":"\u003cp\u003eArchana is a senior user interface engineer in engineering tools at Netflix. She is passionate about building simple and intuitive interfaces and reducing cognitive load for users. Her recent obsessions are styleguide, PostCSS and web components. Prior to Netflix, she built interfaces for Coursera, Quantifind and Adobe. If she is not binging Netflix originals, she is definitely cooking and experimenting in her kitchen.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":174180,
+            "name":"Islam Sharabash",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_174180.jpg",
+            "url":null,
+            "position":"Lead Software Engineer",
+            "affiliation":"Superhuman",
+            "twitter":"",
+            "bio":"\u003cp\u003eIslam Sharabash is a Founding Engineer at Superhuman, where he is working on making the fastest email experience in the world. Prior to Superhuman, he was an engineer at Remind, DataHero, and Facebook, and went to school at University of Illinois Urbana-Champaign. When he is not architecting for developer happiness and productivity, he can be found on Twitter (@ibashes).\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":74368,
+            "name":"Kyle Simpson",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_74368.jpg",
+            "url":"http://getify.me/",
+            "position":"Open Web Evangelist",
+            "affiliation":"Getify",
+            "twitter":"getify",
+            "bio":"\u003cp\u003e\u003cspan class=\"bold\"\u003eKyle Simpson\u003c/span\u003e is an evangelist of the open web, passionate about all things JavaScript. He writes books, teaches JavaScript, and speaks about and contributes to the world of \u003cspan class=\"caps\"\u003eOSS\u003c/span\u003e.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":270571,
+            "name":"Max Stoiber",
+            "photo":null,
+            "url":"http://mxstbr.com/",
+            "position":"Open Source Developer",
+            "affiliation":"Thinkmill",
+            "twitter":"mxstbr",
+            "bio":"\u003cp\u003eMax is an open source developer at \u003ca href=\"https://thinkmill.com.au\"\u003eThinkmill\u003c/a\u003e. He's the creator of \u003ca href=\"https://github.com/mxstbr/react-boilerplate\"\u003ereact-boilerplate\u003c/a\u003e, one of the most famous React.js starter kits, and the co-creator of \u003ca href=\"https://styled-components.com\"\u003estyled-components\u003c/a\u003e, one of the most widely used libraries to style React.js apps. He also takes care of \u003ca href=\"http://keystonejs.org\"\u003eKeystoneJS\u003c/a\u003e, the biggest Node.js \u003cspan class=\"caps\"\u003eCMS\u003c/span\u003e, and \u003ca href=\"http://elemental-ui.org\"\u003eElemental UI\u003c/a\u003e, a popular React.js UI library.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":189759,
+            "name":"Marcy Sutton",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_189759.jpg",
+            "url":"http://marcysutton.com/",
+            "position":"Senior Front-End Engineer",
+            "affiliation":"Deque Systems",
+            "twitter":"marcysutton",
+            "bio":"\u003cp\u003eMarcy Sutton works as a meta web developer on accessibility tools for other developers at Deque (DQ) Systems, a company focused on digital equality. Marcy is passionate about making the web accessible for everyone. She loves applying her skills and personal values on the axe-core project, speaking at conferences around the world and producing accessibility screencasts for Egghead.io. Her blog, Accessibility Wins, highlights accessible user interfaces and tools, contributing a positive voice to the web development space. When away from the keyboard, Marcy can usually be found hiking, riding a bicycle or snowboarding.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":240318,
+            "name":"Katie Sylor-Miller",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_240318.jpg",
+            "url":"http://sylormiller.com/",
+            "position":"Senior Software Engineer",
+            "affiliation":"Etsy",
+            "twitter":"",
+            "bio":"\u003cp\u003eKatie Sylor-Miller is a Senior Software Engineer on the Design Systems team at Etsy, where she collaborates with designers to provide the foundational tools, systems, and guidance that empower everyone at Etsy to make beautiful, usable, brand-aligned experiences. She is passionate about web standards, \u003cbr /\u003e\nfront-end architecture, style guides, accessibility, and facilitating communication between design \u0026 development. She created \u003ca href=\"http://ohshitgit.com\"\u003eohshitgit.com\u003c/a\u003e to share her hard-won knowledge of how to get out of various git messes.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":241987,
+            "name":"Anjana Vakil",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_241987.jpg",
+            "url":"https://vakila.github.io/",
+            "position":"Software Engineer",
+            "affiliation":"ÜberResearch",
+            "twitter":"AnjanaVakil",
+            "bio":"\u003cp\u003e\u003ca href=\"https://twitter.com/AnjanaVakil\"\u003eAnjana\u003c/a\u003e suffers from a debilitating case of curiosity, which led her from philosophy to  \u003cbr /\u003e\nEnglish teaching to computational linguistics to software development. As an engineer at \u003ca href=\"http://www.uberresearch.com\"\u003eÜberResearch\u003c/a\u003e, she currently codes from her home base in Berlin; that is, when she's not traveling the world trying to share the joy of programming and make the tech community more diverse and accessible. Talk to her about functional programming, language design \u0026 implementation, and speech technology, and ask her about \u003ca href=\"https://www.mozilla.org\"\u003eMozilla\u003c/a\u003e, \u003ca href=\"https://www.gnome.org/outreachy\"\u003eOutreachy\u003c/a\u003e, and the \u003ca href=\"https://www.recurse.com\"\u003eRecurse Center\u003c/a\u003e!\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":189717,
+            "name":"TJ VanToll",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_189717.jpg",
+            "url":"http://tjvantoll.com/",
+            "position":"Principal Developer Advocate",
+            "affiliation":"Progress",
+            "twitter":"tjvantoll",
+            "bio":"\u003cp\u003eTJ VanToll is a front-end developer, author, and a Principal Developer Advocate for Progress. TJ has over a decade of web development experience, including a few years working on the jQuery team. Nowadays, he spends his time helping web developers build mobile apps through projects like NativeScript.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":192426,
+            "name":"Kathleen Vignos",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_192426.jpg",
+            "url":"http://www.twitter.com/",
+            "position":"Senior Engineering Manager",
+            "affiliation":"Twitter",
+            "twitter":"kathleencodes",
+            "bio":"\u003cp\u003eKathleen Vignos is a full stack engineer turned manager who has lead engineering teams at Twitter and \u003cspan class=\"caps\"\u003eWIRED\u003c/span\u003e. She's worked at two startups (one of which she founded), traveled the western US for management consulting and professional services, taught business software programming at the university level, won a hackathon, and built dozens of websites. Other experiences include everything from being on call as a \u003cspan class=\"caps\"\u003eCOBOL\u003c/span\u003e programmer for Y2K to modifying a React app for a hack week project.  She holds engineering degrees from \u003cspan class=\"caps\"\u003eUCLA\u003c/span\u003e and Michigan.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":149657,
+            "name":"Ben Vinegar",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_149657.jpg",
+            "url":"http://getsentry.com/",
+            "position":"Software Engineer",
+            "affiliation":"Sentry",
+            "twitter":"bentlegen",
+            "bio":"\u003cp\u003eBen Vinegar is a Front-end Engineer at Sentry. He is a contributor to O'Reilly's \u0026#8220;Beautiful JavaScript\u0026#8221;, and the co-author of \u0026#8220;Third-party JavaScript\u0026#8221;.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":155970,
+            "name":"Yoav Weiss",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_155970.jpg",
+            "url":"http://blog.yoav.ws/",
+            "position":"Architect",
+            "affiliation":"Akamai",
+            "twitter":"yoavweiss",
+            "bio":"\u003cp\u003eYoav Weiss is a principal architect at Akamai, where he focuses on making the Web platform faster by adding performance-related features to browsers as well as to Akamai's \u003cspan class=\"caps\"\u003eCDN\u003c/span\u003e. Yoav has been working on mobile Web performance for longer than he cares to admit. He takes image bloat on the Web as a personal insult, which is why he joined the Responsive Image Community Group and implemented the various responsive images features in Blink and WebKit. When he's not writing code, he's probably slapping his bass, mowing the lawn in the French countryside, or playing board games with his family.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":272667,
+            "name":"David Wells",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_272667.jpg",
+            "url":"http://serverless.com/",
+            "position":"Software Developer",
+            "affiliation":"Serverless",
+            "twitter":null,
+            "bio":"\u003cp\u003eDavid Wells is a full stack developer at Serverless, Inc. in San Francisco. He is passionate about developer experience and creating products that are powerful and easy to use.\u003c/p\u003e\n\u003cp\u003eHis previous roles include lead UI/UX developer at Mulesoft and founder of Inbound Now, an open source marketing software platform.\u003c/p\u003e\n\u003cp\u003eHe has consulted with hundreds of companies to implement conversion optimization strategies to increase inbound web leads.\u003c/p\u003e\n\u003cp\u003eHe specialized in JavaScript, \u003cspan class=\"caps\"\u003eHTML\u003c/span\u003e, \u003cspan class=\"caps\"\u003eCSS\u003c/span\u003e, Marketing, and UI/ UX\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         },
+         {  
+            "serial":53274,
+            "name":"Estelle Weyl",
+            "photo":"https://cdn.oreillystatic.com/en/assets/1/eventprovider/1/_@user_53274.jpg",
+            "url":"http://www.instartlogic.com/",
+            "position":"Open Web Evangelist",
+            "affiliation":"Instart Logic",
+            "twitter":"estellevw",
+            "bio":"\u003cp\u003eEstelle Weyl started her professional life in architecture and then managed teen health programs. In 2000, Estelle took the natural step of becoming a web standardista. She is the Open Web and performance evangelist for \u003ca href=\"http://instartlogic.com\"\u003eInstart Logic\u003c/a\u003e and has consulted for Kodak Gallery, SurveyMonkey, Samsung, Yahoo, Visa, and Apple, among others. Estelle shares esoteric tidbits learned while programming and detailed grids of CSS3 and HTML5 browser support in \u003ca href=\"http://www.standardista.com\"\u003eher blog\u003c/a\u003e. She is a coauthor of \u003cem\u003eMobile HTML5\u003c/em\u003e, \u003cem\u003eCSS3: The Definitive Guide\u003c/em\u003e, and \u003cem\u003eHTML5 and CSS3 for the Real World\u003c/em\u003e. While not coding, Estelle works in construction, de-hippifying her 1960s throwback abode.\u003c/p\u003e",
+            "discover":-1,
+            "large_img_url":null,
+            "youtube_url":null
+         }
+      ],
+      "venues":[  
+         {  
+            "serial":2798,
+            "name":"210 AE",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2799,
+            "name":"210 BF",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2800,
+            "name":"210 CG",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2801,
+            "name":"210 DH",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2781,
+            "name":"212 A/B",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2778,
+            "name":"212 A/B",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2840,
+            "name":"Grand Ballroom 220",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2776,
+            "name":"211 A/B",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2777,
+            "name":"211 C/D",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2779,
+            "name":"212 C",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2780,
+            "name":"212 D",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2782,
+            "name":"211 C/D",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2783,
+            "name":"212 A/B",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2784,
+            "name":"212 C",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2785,
+            "name":"212 D",
+            "category":"Conference Venues"
+         },
+         {  
+            "serial":2831,
+            "name":"Break",
+            "category":"Conference Venues"
+         }
+      ]
+   }
+}
+
